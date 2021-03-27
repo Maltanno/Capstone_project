@@ -9,6 +9,9 @@ __pycache__/
 # Private
 Key.txt
 
+# Too Large
+data.csv
+
 # Distribution / packaging
 .Python
 build/
