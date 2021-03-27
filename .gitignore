@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Private
+Key.txt
+
+# Too Large
+data.csv
+
 # Distribution / packaging
 .Python
 build/
