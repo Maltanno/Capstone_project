@@ -11,6 +11,9 @@ Key.txt
 
 # Too Large
 data.csv
+change.csv
+percent_change.csv
+range.csv
 
 # Distribution / packaging
 .Python
