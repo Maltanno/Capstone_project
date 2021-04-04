@@ -15,6 +15,13 @@ data2.csv
 change.csv
 percent_change.csv
 range.csv
+rel_change.csv
+val_range.csv
+mid_val.csv
+volume.csv
+range.csv
+change2.csv
+models/
 
 # Distribution / packaging
 .Python
