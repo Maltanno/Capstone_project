@@ -1,5 +1,8 @@
 # Capstone_project
-# Predicting Stocks' Hidden Factors
+# Predicting Stocks' Hidden Factors   
+
+Note: I'm not coming at this with any experience in stock markets, and certainly not in an effort to get rich.     
+
 For my final project in this Data SCIENCE course I’ve done an experiment with data and data science methods. 
 SVD, is a procedure which decomposes 1 matrix into 2 smaller matrices.     
 For example, a table of stock values with the companies along the top and dates on the side, can be split into:    
